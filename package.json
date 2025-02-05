@@ -1,0 +1,27 @@
+{
+    "name": "kaleido-auto-reff",
+    "version": "1.0.0",
+    "description": "Auto registration bot for Kaleido Finance with proxy support",
+    "main": "index.js",
+    "type": "module",
+    "scripts": {
+      "start": "node index.js"
+    },
+    "keywords": [
+      "kaleido",
+      "registration",
+      "bot",
+      "web3",
+      "proxy"
+    ],
+    "author": "airdropinsiders",
+    "license": "MIT",
+    "dependencies": {
+      "axios": "^1.6.7",
+      "chalk": "^5.3.0",
+      "web3": "^4.5.0",
+      "socks-proxy-agent": "^8.0.2",
+      "https-proxy-agent": "^7.0.2",
+      "user-agents": "^1.1.100"
+    }
+  }

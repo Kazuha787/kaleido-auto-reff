@@ -1,0 +1,5 @@
+http:1.2.3.4:8080
+socks4:1.2.3.4:1080
+socks5:1.2.3.4:1080
+http:user:pass@1.2.3.4:8080
+socks5:user:pass@1.2.3.4:1080
